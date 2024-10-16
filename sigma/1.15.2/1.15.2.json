@@ -116,8 +116,8 @@
   "complianceLevel": 1,
   "downloads": {
     "client": {
-      "sha1": "7b00f333984e594a2c5a406f54700284397b282e",
-      "size": 74227820,
+      "sha1": "339bc106fdf82d17f33ff152df101d0b994bd5a2",
+      "size": 74171326,
       "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/1.15.2/1.15.2.jar"
     },
     "client_mappings": {
