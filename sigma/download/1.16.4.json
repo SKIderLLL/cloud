@@ -153,38 +153,38 @@
       },
       "name": "com.mentalfrostbyte:annotations:24.1.0"
     },
-	{
+		{
       "downloads": {
         "artifact": {
-          "path": "com/mentalfrostbyte/downgraded-ViaBackwards/5.0.2-SNAPSHOT/downgraded-ViaBackwards-5.0.2-SNAPSHOT.jar",
-          "sha1": "deafd02887f471ecdce722987e578989ef57f6eb",
-          "size": 1163390,
-          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/downgraded-ViaBackwards-5.0.2-SNAPSHOT.jar"
+          "path": "com/mentalfrostbyte/ViaBackwards/5.0.4/ViaBackwards-5.0.4.jar",
+          "sha1": "426bb3fcae85cbe217a511cb4543d4f4d07ef8ac",
+          "size": 1169620,
+          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/5.0.4/ViaBackwards-5.0.4.jar"
         }
       },
-      "name": "com.mentalfrostbyte:downgraded-ViaBackwards:5.0.2-SNAPSHOT"
+      "name": "com.mentalfrostbyte:ViaBackwards:5.0.4"
     },
 	{
       "downloads": {
         "artifact": {
-          "path": "com/mentalfrostbyte/downgraded-ViaVersion/5.0.2-SNAPSHOT/downgraded-ViaVersion-5.0.2-SNAPSHOT.jar",
-          "sha1": "50608ef0e9e59ab4d672d4df3258a26cbc10c695",
-          "size": 4624618,
-          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/downgraded-ViaVersion-5.0.2-SNAPSHOT.jar"
+          "path": "com/mentalfrostbyte/ViaVersion/5.0.5/ViaVersion-5.0.5.jar",
+          "sha1": "8fe343a82e1d6b64e382d69ad6f50619647cff04",
+          "size": 4923020,
+          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/ViaVersion-5.0.5.jar"
         }
       },
-      "name": "com.mentalfrostbyte:downgraded-ViaVersion:5.0.2-SNAPSHOT"
+      "name": "com.mentalfrostbyte:ViaVersion:5.0.5"
     },
 	{
       "downloads": {
         "artifact": {
-          "path": "com/mentalfrostbyte/downgraded-ViaRewind/4.0.1-SNAPSHOT/downgraded-ViaRewind-4.0.1-SNAPSHOT.jar",
-          "sha1": "a64e1b27d8ccad02cc4a5884fd152ed8a842f7b9",
-          "size": 376081,
-          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/downgraded-ViaRewind-4.0.1-SNAPSHOT.jar"
+          "path": "com/mentalfrostbyte/ViaRewind/4.0.3/ViaRewind-4.0.3.jar",
+          "sha1": "2918affe926b7e85ce2f895a095d84e6a5693407",
+          "size": 390959,
+          "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/ViaRewind-4.0.3.jar"
         }
       },
-      "name": "com.mentalfrostbyte:downgraded-ViaRewind:4.0.1-SNAPSHOT"
+      "name": "com.mentalfrostbyte:ViaRewind:4.0.3"
     },
 	{
       "downloads": {
