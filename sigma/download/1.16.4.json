@@ -116,9 +116,9 @@
   "complianceLevel": 1,
     "downloads": {
     "client": {
-      "sha1": "3e202f1ff44bf8717e1c73cb3cb4b8523e489a83",
-      "size": 37267230,
-      "url": "https://github.com/Sigma-Skidder-Team/SigmaRemap/releases/download/1.4/SigmaRemapped.jar"
+      "sha1": "1dfcc90ee1e73a5b01bfe48eefc88afbc9d12969",
+      "size": 37351940,
+      "url": "https://github.com/Sigma-Skidder-Team/SigmaRemap/releases/download/1.6/SigmaRemapped.jar"
     },
     "client_mappings": {
       "sha1": "0837de813d1a6b67e23da3c520a84e872c8d2f0e",
