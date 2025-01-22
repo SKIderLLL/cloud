@@ -101,6 +101,7 @@
       "-Djava.library.path=${natives_directory}",
       "-Dminecraft.launcher.brand=${launcher_name}",
       "-Dminecraft.launcher.version=${launcher_version}",
+      "-noverify",
       "-cp",
       "${classpath}"
     ]
@@ -113,7 +114,6 @@
     "url": "https://launchermeta.mojang.com/v1/packages/bfdce6db2ba511d7dba9ef81910943d6c3d2608d/1.15.json"
   },
   "assets": "1.15",
-  "complianceLevel": 1,
   "downloads": {
     "client": {
       "sha1": "339bc106fdf82d17f33ff152df101d0b994bd5a2",
