@@ -101,6 +101,7 @@
       "-Djava.library.path=${natives_directory}",
       "-Dminecraft.launcher.brand=${launcher_name}",
       "-Dminecraft.launcher.version=${launcher_version}",
+      "-noverify",
       "-cp",
       "${classpath}"
     ]
@@ -113,7 +114,6 @@
     "url": "https://piston-meta.mojang.com/v1/packages/f3c4aa96e12951cd2781b3e1c0e8ab82bf719cf2/1.16.json"
   },
   "assets": "1.16",
-  "complianceLevel": 1,
     "downloads": {
     "client": {
       "sha1": "1dfcc90ee1e73a5b01bfe48eefc88afbc9d12969",
@@ -137,10 +137,6 @@
     }
   },
   "id": "1.16.4",
-  "javaVersion": {
-    "component": "jre-legacy",
-    "majorVersion": 8
-  },
   "libraries": [
 	{
       "downloads": {
